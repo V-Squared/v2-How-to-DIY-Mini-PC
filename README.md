@@ -1,5 +1,7 @@
 # V² How to build your own DIY PC
-How-to Article Series on the Art of building your own DIY Mini or All-In-One Computer
+How-to Article Series on the Art of building your own DIY Mini or All-In-One Computer.
+
+This Article series provides deeper knowledge to assist in making choices which parts you want to use in your new DIY Computer. To answer the question which parts are best for you.
 
 # Planned Articles
 - How to choose the right CPU
@@ -20,6 +22,10 @@ How-to Article Series on the Art of building your own DIY Mini or All-In-One Com
 1. Fork this Repository
 2. Make your change
 3. Send us a Pull Request
+ 
+# Related Projects
+[V²Configurator @ GitHub](https://github.com/V-Squared/v2-Configurator). The Configurator assists in configuring a DIY Computer. You begin by picking one of many Ready-Made Configurations which then you can tune. The configurator also protects you from choosing part combinations that are not compatible to each other. When done, it speeds up shopping.
+
 
 # License
 - GNU GPL v3
