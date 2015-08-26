@@ -1,9 +1,9 @@
 # V² How to build your own DIY PC
-How-to Article Series on the Art of building your own DIY Computer
+How-to Article Series on the Art of building your own DIY Mini or All-In-One Computer
 
 # Planned Articles
 - How to choose the right CPU
-- How to choose the right MoBo
+- [How to choose the Motherboard](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Motherboard)
 - How to choose the right GPU
 - How to choose the right DRAM
 - How to choose the right Disks
