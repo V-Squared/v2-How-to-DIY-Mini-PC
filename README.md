@@ -4,9 +4,9 @@ How-to Article Series on the Art of building your own DIY Mini or All-In-One Com
 This Article series provides deeper knowledge to assist in making choices which parts you want to use in your new DIY Computer. To answer the question which parts are best for you.
 
 # Planned Articles
-- How to choose the right CPU
+- [How to choose the right CPU](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-CPU)
 - [How to choose the Motherboard](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Motherboard)
-- [How to choose the right GPU](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-CPU)
+- How to choose the right GPU
 - How to choose the right DRAM
 - How to choose the right Disks
 - How to choose the right Backup Solution
