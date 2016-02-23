@@ -3,16 +3,33 @@ How-to Article Series on the Art of building your own DIY Mini or All-In-One Com
 
 This Article series provides deeper knowledge to assist in making choices which parts you want to use in your new DIY Computer. To answer the question which parts are best for you.
 
-# Planned Articles
-- [How to choose the right CPU](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-CPU)
-- [How to choose the Motherboard](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Motherboard)
-- How to choose the right GPU
-- [How to choose the right DRAM](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-DRAM)
-- [How to choose the Boot Disk](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Boot-Disk)
-- [How to choose the Data Disks](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Data-Disks)
+# List of Know How Articles
+## How to choose the ...
+- [Motherboard](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Motherboard)
+- [CPU](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-CPU)
+- [DRAM](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-DRAM)
+- [Boot Disk](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Boot-Disk)
+- [Data Disks](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Data-Disks)
+
+## How to build Open Source Community Shop
+- [Open Source ViPC Comunity Shops](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Open-Source-ViPC-Comunity-Shops)
+- [Costs of Ebay and Amazon](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Costs-of-Ebay-and-Amazon)
+
+## ViPC Competitive Fitness
+ViPC are Custom Build PCs for specific Use Cases
+
+- [Custom Build PC Family](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Custom-Build-PC-Family)
+- [ViCase Generations](ViCase Generations/)
+- [Competition: ViPC Workstation](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Competition:-ViPC-Workstation)
+- [Mac Mini Comparison Page](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Mac-Mini-Comparison-Page)
+
+## Articles in the Pipeline
 - How to choose the right Backup Solution
 - How to build a DIY All-In-One with GPU
 - How to build a DIY Mini-PC with GPU
+- [How to choose the right OS](How to choose the right OS)
+- [How to choose RAID Disks](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-RAID-Disks)
+- How to make Backups
 
 # Development Flow
 - **Developed in Wiki:** Use StackEdit with nice tables
