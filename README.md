@@ -5,30 +5,30 @@ This Article series provides deeper knowledge to assist in making choices which 
 
 # List of Know How Articles
 ## How to choose the ...
-- [Motherboard](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Motherboard)
-- [CPU](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-CPU)
-- [DRAM](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-right-DRAM)
-- [Boot Disk](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Boot-Disk)
-- [Data Disks](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-the-Data-Disks)
+- [Motherboard](../../wiki/How-to-choose-the-Motherboard)
+- [CPU](../../wiki/How-to-choose-the-right-CPU)
+- [DRAM](../../wiki/How-to-choose-the-right-DRAM)
+- [Boot Disk](../../wiki/How-to-choose-the-Boot-Disk)
+- [Data Disks](../../wiki/How-to-choose-the-Data-Disks)
 
 ## How to build Open Source Community Shop
-- [Open Source ViPC Comunity Shops](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Open-Source-ViPC-Comunity-Shops)
-- [Costs of Ebay and Amazon](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Costs-of-Ebay-and-Amazon)
+- [Open Source ViPC Comunity Shops](../../wiki/Open-Source-ViPC-Comunity-Shops)
+- [Costs of Ebay and Amazon](../../wiki/Costs-of-Ebay-and-Amazon)
 
 ## ViPC Competitive Fitness
 ViPC are Custom Build PCs for specific Use Cases
 
-- [Custom Build PC Family](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Custom-Build-PC-Family)
-- [ViCase Generations](ViCase Generations/)
-- [Competition: ViPC Workstation](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Competition:-ViPC-Workstation)
-- [Mac Mini Comparison Page](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/Mac-Mini-Comparison-Page)
+- [Custom Build PC Family](../../wiki/Custom-Build-PC-Family)
+- [ViCase Generations](../../wiki/ViCase Generations/)
+- [Competition: ViPC Workstation](../../wiki/Competition:-ViPC-Workstation)
+- [Mac Mini Comparison Page](../../wiki/Mac-Mini-Comparison-Page)
 
 ## Articles in the Pipeline
 - How to choose the right Backup Solution
 - How to build a DIY All-In-One with GPU
 - How to build a DIY Mini-PC with GPU
-- [How to choose the right OS](How to choose the right OS)
-- [How to choose RAID Disks](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/How-to-choose-RAID-Disks)
+- [How to choose the right OS](../../wiki/How-to-choose-the-right-OS)
+- [How to choose RAID Disks](../../wiki/How-to-choose-RAID-Disks)
 - How to make Backups
 
 # Development Flow
