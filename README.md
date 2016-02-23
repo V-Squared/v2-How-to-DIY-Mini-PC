@@ -19,9 +19,10 @@ This Article series provides deeper knowledge to assist in making choices which 
 ViPC are Custom Build PCs for specific Use Cases
 
 - [Custom Build PC Family](../../wiki/Custom-Build-PC-Family)
-- [ViCase Generations](../../wiki/ViCase Generations/)
+- [ViCase Generations](../../wiki/ViCase-Generations/)
 - [Competition: ViPC Workstation](../../wiki/Competition:-ViPC-Workstation)
 - [Mac Mini Comparison Page](../../wiki/Mac-Mini-Comparison-Page)
+- [ViCase PC vs. Competition](../../wiki/ViCase-PC-vs.-Competition)
 
 ## Articles in the Pipeline
 - How to choose the right Backup Solution
