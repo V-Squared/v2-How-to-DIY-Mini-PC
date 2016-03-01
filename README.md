@@ -3,7 +3,11 @@ How-to Article Series on the Art of building your own DIY Mini or All-In-One Com
 
 This Article series provides deeper knowledge to assist in making choices which parts you want to use in your new DIY Computer. To answer the question which parts are best for you.
 
-# List of Know How Articles
+# Part of the ViPC Project
+ViPC are a set of open source projects to to create and publish Know How to help you to either build yourself or to buy a modular, upgradeable Mini or All-In-One Computer, made from Desktop parts. For more information → [ViPC Community Project](https://github.com/V-Squared/v2-How-to-DIY-Mini-PC/wiki/ViPC-Community-Project)
+
+
+# List of Know How Articles to choose the right parts for your PC
 ## How to choose the ...
 - [Motherboard](../../wiki/How-to-choose-the-Motherboard)
 - [CPU](../../wiki/How-to-choose-the-right-CPU)
@@ -11,9 +15,6 @@ This Article series provides deeper knowledge to assist in making choices which 
 - [Boot Disk](../../wiki/How-to-choose-the-Boot-Disk)
 - [Data Disks](../../wiki/How-to-choose-the-Data-Disks)
 
-## How to build Open Source Community Shop
-- [Open Source ViPC Comunity Shops](../../wiki/Open-Source-ViPC-Comunity-Shops)
-- [Costs of Ebay and Amazon](../../wiki/Costs-of-Ebay-and-Amazon)
 
 ## ViPC Competitive Fitness
 ViPC are Custom Build PCs for specific Use Cases
